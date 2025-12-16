@@ -47,7 +47,7 @@ class WA
         }
 
         Console.WriteLine("Q4");
-        string password = "Pass@123"; // input inside code
+        string password = "Pass@123";
 
         bool hasDigit = false;
         bool hasSpecialChar = false;
@@ -137,3 +137,4 @@ class WA
 
     }
 }
+
